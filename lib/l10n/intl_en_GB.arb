@@ -1,0 +1,14 @@
+{
+  "@@locale": "en_GB",
+  "usernameField": "Username",
+  "passwordField": "Password",
+  "rememberMeCheckbox": "Remember me",
+  "forgotPassword": "Forgot password?",
+  "login": "Login",
+  "licenseBySigningIn" : "By signing-in you agreed to our ",
+  "licenseTermsOfUse": "Terms of Use",
+  "licenseAnd": " and ",
+  "licenseEULA": "EULA",
+  "licenseEnding": ". You should only use app when it is safe and legal to do so.",
+  "trademark": "Created by Transport Exchange Group Ltd 2000-2021"
+}

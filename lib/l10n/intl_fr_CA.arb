@@ -1,0 +1,14 @@
+{
+  "@@locale": "fr_CA",
+  "usernameField": "Nom d'utilisateur",
+  "passwordField": "Mot de passe",
+  "rememberMeCheckbox": "Souviens-toi de moi",
+  "forgotPassword": "Mot de passe oublié?",
+  "login": "S'identifier",
+  "licenseBySigningIn" : "En vous connectant, vous acceptez nos  ",
+  "licenseTermsOfUse": "conditions d'utilisation",
+  "licenseAnd": " et ",
+  "licenseEULA": "le CLUF",
+  "licenseEnding": ". Vous ne devez utiliser l'application que lorsque cela est sûr et légal.",
+  "trademark": "Créé par Transport Exchange Group Ltd 2000-2021"
+}
